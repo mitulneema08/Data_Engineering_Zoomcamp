@@ -209,3 +209,5 @@ __marimo__/
 .venv/
 __pycache__/
 *.pyc
+docker/postgres/postgres-data/
+docker/postgres/.venv/
